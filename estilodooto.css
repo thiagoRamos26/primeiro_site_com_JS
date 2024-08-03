@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0%;
+}
+#caixa01 {
+    margin-left: 50px;
+    border: 2px solid black;
+    background: yellow;
+    margin-top: 50px;
+    padding-top: 15px;
+    cursor: pointer;
+    width: 115px;
+    height: 55px;
+    padding-left: 15px;
+    padding-bottom: 45px;
+    border-radius: 5vh;
+}
+#caixa02 {
+    padding-top: 7px;
+    text-align: center;
+    color: white;
+    width: 85px;
+    height: 35px;
+    background: green;
+    border: 1px solid black;
+    margin-left: 350px;
+    margin-top: -40px;
+}
